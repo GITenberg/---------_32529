@@ -19,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Rhoides
     - http://el.wikipedia.org/wiki/%CE%95%CE%BC%CE%BC%CE%B1%CE%BD%CE%BF%CF%85%CE%AE%CE%BB_%CE%A1%CE%BF%CE%90%CE%B4%CE%B7%CF%82
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32529#---------
 gutenberg_issued: '2010-05-26'
 gutenberg_type: Text
 identifiers:
