@@ -1,0 +1,35 @@
+_repo: '---------_32529'
+_version: 0.1.0
+alternative_title: Works II, Short Stories
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rhoides, Emmanouel D.
+    aliases:
+    - Ροΐδης, Εμμανουήλ
+    - Roidis, Emmanuel
+    - Rhoides, Emmanuel
+    birthdate: 1835
+    deathdate: 1904
+    gutenberg_agent_id: '32608'
+    url: http://www.gutenberg.org/2009/agents/32608
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Rhoides
+    - http://el.wikipedia.org/wiki/%CE%95%CE%BC%CE%BC%CE%B1%CE%BD%CE%BF%CF%85%CE%AE%CE%BB_%CE%A1%CE%BF%CE%90%CE%B4%CE%B7%CF%82
+description: ''
+gutenberg_issued: '2010-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32529'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Greek fiction, Modern'
+- !lcsh 'Short stories'
+title: Διηγήματα
+url: http://www.gutenberg.org/ebooks/32529
